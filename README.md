@@ -2,7 +2,7 @@
 
 ## Contents
 
-### Image synthesis
+## Image synthesis
 
 **Training-free diffusion model adaptation for variable-sized text-to-image synthesis**
 
