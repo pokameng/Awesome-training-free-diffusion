@@ -6,7 +6,7 @@
 
 **Training-free diffusion model adaptation for variable-sized text-to-image synthesis**
 
-[[Paper]: https://proceedings.neurips.cc/paper_files/paper/2023/file/e0378e0c642b1d292fcb224e8d5a39b3-Paper-Conference.pdf]
+[[Paper]]: (https://proceedings.neurips.cc/paper_files/paper/2023/file/e0378e0c642b1d292fcb224e8d5a39b3-Paper-Conference.pdf)
 
 **Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model** 
 
