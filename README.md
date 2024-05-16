@@ -1,6 +1,4 @@
 # Awesome-training-free-diffusion
-# Awesome-training-free-diffusion
-
 ## Contents
 
 ### Image synthesis
