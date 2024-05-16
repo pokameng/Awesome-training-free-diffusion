@@ -10,29 +10,29 @@
 
 **Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model** 
 
-[Github:]: https://github.com/ecnuljzhang/brush-your-text
-[Paper]: https://ojs.aaai.org/index.php/AAAI/article/view/28550/29069
+[[Github:](https://github.com/ecnuljzhang/brush-your-text)]
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28550/29069)]
 
 **Enhancing Prompt Following with Visual Control Through Training-Free Mask-Guided Diffusion**
 
-[Paper]: https://arxiv.org/pdf/2404.14768
+[[Paper](https://arxiv.org/pdf/2404.14768)]
 
 **Training-Free Consistent Text-to-Image Generation**
 
-[Github]: https://consistory-paper.github.io/
-[Paper]: https://arxiv.org/abs/2402.03286
+[[Github](https://consistory-paper.github.io/)]
+[[Paper](https://arxiv.org/abs/2402.03286)]
 
 **Boundary Guided Learning-Free Semantic Control with Diffusion Models**
 
-[Github]: https://l-yezhu.github.io/BoundaryDiffusion/
-[Paper]: https://proceedings.neurips.cc/paper_files/paper/2023/file/f737da5ea0e122870fad209509f87d5b-Paper-Conference.pdf
+[[Github](https://l-yezhu.github.io/BoundaryDiffusion/)]
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/f737da5ea0e122870fad209509f87d5b-Paper-Conference.pdf)]
 
 **LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models** 
 
-[Github]: https://github.com/Young98CN/LoRA_Composer
-[Paper]: https://arxiv.org/pdf/2403.11627
+[[Github](https://github.com/Young98CN/LoRA_Composer)]
+[[Paper](https://arxiv.org/pdf/2403.11627)]
 
 **A TRAINING-FREE PLUG-AND-PLAY WATERMARK FRAMEWORK FOR STABLE DIFFUSION**
 
-[Paper]: https://arxiv.org/pdf/2404.05607
+[[Paper](https://arxiv.org/pdf/2404.05607)]
 
