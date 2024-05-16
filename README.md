@@ -10,7 +10,7 @@
 
 **Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model** 
 
-[[Github:](https://github.com/ecnuljzhang/brush-your-text)]
+[[Github](https://github.com/ecnuljzhang/brush-your-text)]
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28550/29069)]
 
 **Enhancing Prompt Following with Visual Control Through Training-Free Mask-Guided Diffusion**
