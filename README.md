@@ -32,7 +32,7 @@
 [[Github](https://github.com/Young98CN/LoRA_Composer)]
 [[Paper](https://arxiv.org/pdf/2403.11627)]
 
-**A TRAINING-FREE PLUG-AND-PLAY WATERMARK FRAMEWORK FOR STABLE DIFFUSION**
+**A Training-Free Plug-and-Play Watermark Framework For Stable Diffusion**
 
 [[Paper](https://arxiv.org/pdf/2404.05607)]
 
