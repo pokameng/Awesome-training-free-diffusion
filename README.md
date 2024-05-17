@@ -33,6 +33,10 @@
 [[Github](https://github.com/showlab/BoxDiff)]
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_BoxDiff_Text-to-Image_Synthesis_with_Training-Free_Box-Constrained_Diffusion_ICCV_2023_paper.pdf)]
 
+**FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model** \
+[[Github](https://github.com/vvictoryuki/FreeDoM)]
+[[Paper](https://arxiv.org/pdf/2303.09833)]
+
 ## Diffusion Model Acceleration
 
 **AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration** \
@@ -50,6 +54,17 @@
 **Training-free Content Injection using h-space in Diffusion Models** \
 [[Github](https://curryjung.github.io/DiffStyle/)]
 [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Jeong_Training-Free_Content_Injection_Using_H-Space_in_Diffusion_Models_WACV_2024_paper.pdf)]
+
+**Prompt-to-Prompt Image Editing with Cross Attention Control** \
+[[Github](https://github.com/google/prompt-to-prompt)]
+[[Paper])(https://arxiv.org/pdf/2208.01626)]
+
+## Image Translation
+
+**Zero-shot Image-to-Image Translation** \
+[[Github](https://github.com/pix2pixzero/pix2pix-zero)]
+[[Paper](https://arxiv.org/pdf/2302.03027)]
+
 
 
 
