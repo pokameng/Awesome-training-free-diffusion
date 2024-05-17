@@ -29,3 +29,7 @@
 **A Training-Free Plug-and-Play Watermark Framework For Stable Diffusion** \
 [[Paper](https://arxiv.org/pdf/2404.05607)]
 
+**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion** \
+[[Github](https://github.com/showlab/BoxDiff)]
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_BoxDiff_Text-to-Image_Synthesis_with_Training-Free_Box-Constrained_Diffusion_ICCV_2023_paper.pdf)]
+
