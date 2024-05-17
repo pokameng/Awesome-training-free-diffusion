@@ -57,7 +57,7 @@
 
 **Prompt-to-Prompt Image Editing with Cross Attention Control** \
 [[Github](https://github.com/google/prompt-to-prompt)]
-[[Paper])(https://arxiv.org/pdf/2208.01626)]
+[[Paper](https://arxiv.org/pdf/2208.01626)]
 
 ## Image Translation
 
