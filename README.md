@@ -38,3 +38,18 @@
 **AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration** \
 [[Github](https://github.com/lilijiangg/AutoDiffusion)]
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_AutoDiffusion_Training-Free_Optimization_of_Time_Steps_and_Architectures_for_Automated_ICCV_2023_paper.pdf)]
+
+## Segmentation
+**FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models** \
+[[Github](https://bcorrad.github.io/freesegdiff/)]
+[[Paper](https://arxiv.org/pdf/2403.20105)]
+
+
+## Image Edit
+
+**Training-free Content Injection using h-space in Diffusion Models** \
+[[Github](https://curryjung.github.io/DiffStyle/)]
+[[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Jeong_Training-Free_Content_Injection_Using_H-Space_in_Diffusion_Models_WACV_2024_paper.pdf)]
+
+
+
