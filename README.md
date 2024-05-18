@@ -33,9 +33,22 @@
 [[Github](https://github.com/showlab/BoxDiff)]
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xie_BoxDiff_Text-to-Image_Synthesis_with_Training-Free_Box-Constrained_Diffusion_ICCV_2023_paper.pdf)]
 
+**BOX IT TO BIND IT: UNIFIED LAYOUT CONTROL AND ATTRIBUTE BINDING IN T2I DIFFUSION MODELS** \
+[[Github](https://github.com/nextaistudio/BoxIt2BindIt)]
+[[Paper](https://arxiv.org/pdf/2402.17910)]
+
 **FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model** \
 [[Github](https://github.com/vvictoryuki/FreeDoM)]
 [[Paper](https://arxiv.org/pdf/2303.09833)]
+
+**Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs** \
+[[Github](https://github.com/YangLing0818/RPG-DiffusionMaster)]
+[[Paper](https://arxiv.org/pdf/2401.11708v2)]
+
+**MuLan: Multimodal-LLM Agent for Progressive Multi-Object Diffusion** \
+[[Github](https://github.com/measure-infinity/mulan-code)]
+[[Paper](https://arxiv.org/pdf/2402.12741)]
+
 
 ## Diffusion Model Acceleration
 
