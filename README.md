@@ -65,6 +65,10 @@
 [[Github](https://github.com/pix2pixzero/pix2pix-zero)]
 [[Paper](https://arxiv.org/pdf/2302.03027)]
 
+## Video Translation
+**FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation** \
+[[Github](https://github.com/williamyang1991/FRESCO)]
+[[Paper](https://arxiv.org/pdf/2403.12962)]
 
 
 
