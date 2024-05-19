@@ -49,12 +49,20 @@
 [[Github](https://github.com/measure-infinity/mulan-code)]
 [[Paper](https://arxiv.org/pdf/2402.12741)]
 
+**MIGC: Multi-Instance Generation Controller for Text-to-Image Synthesis** \
+[[Github](https://migcproject.github.io/)]
+[[Paper](https://arxiv.org/pdf/2402.05408)]
+
+**TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition** \
+[[Github](https://github.com/Shilin-LU/TF-ICON)]
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_TF-ICON_Diffusion-Based_Training-Free_Cross-Domain_Image_Composition_ICCV_2023_paper.pdf)]
+
 
 ## Diffusion Model Acceleration
 
 **AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration** \
 [[Github](https://github.com/lilijiangg/AutoDiffusion)]
-[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_AutoDiffusion_Training-Free_Optimization_of_Time_Steps_and_Architectures_for_Automated_ICCV_2023_paper.pdf)]
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_AutoDiffusion_Training Free_Optimization_of_Time_Steps_and_Architectures_for_Automated_ICCV_2023_paper.pdf)]
 
 ## Segmentation
 **FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models** \
@@ -72,6 +80,10 @@
 [[Github](https://github.com/google/prompt-to-prompt)]
 [[Paper](https://arxiv.org/pdf/2208.01626)]
 
+**ObjectAdd: Adding Objects into Image via a Training-Free Diffusion Modification Fashion** \
+[[Github](https://github.com/potato-kitty/ObjectAdd)]
+[[Paper](https://arxiv.org/pdf/2404.17230)]
+
 ## Image Translation
 
 **Zero-shot Image-to-Image Translation** \
@@ -82,6 +94,16 @@
 **FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation** \
 [[Github](https://github.com/williamyang1991/FRESCO)]
 [[Paper](https://arxiv.org/pdf/2403.12962)]
+
+## Video Generation
+**ControlVideo: Training-free Controllable Text-to-Video Generation** \
+[[Github](https://github.com/YBYBZhang/ControlVideo)]
+[[Paper](https://arxiv.org/pdf/2305.13077)]
+
+**FLATTEN: OPTICAL FLOW-GUIDED ATTENTION FOR CONSISTENT TEXT-TO-VIDEO EDITING** \
+[[Github](https://flatten-video-editing.github.io/)]
+[[Paper](https://arxiv.org/pdf/2310.05922)]
+
 
 
 
