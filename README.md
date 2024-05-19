@@ -62,7 +62,7 @@
 
 **AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration** \
 [[Github](https://github.com/lilijiangg/AutoDiffusion)]
-[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_AutoDiffusion_Training Free_Optimization_of_Time_Steps_and_Architectures_for_Automated_ICCV_2023_paper.pdf)]
+[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_AutoDiffusion_TrainingFree_Optimization_of_Time_Steps_and_Architectures_for_Automated_ICCV_2023_paper.pdf)]
 
 ## Segmentation
 **FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models** \
