@@ -57,6 +57,9 @@
 [[Github](https://github.com/Shilin-LU/TF-ICON)]
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_TF-ICON_Diffusion-Based_Training-Free_Cross-Domain_Image_Composition_ICCV_2023_paper.pdf)]
 
+**DIFFUSION IN DIFFUSION: CYCLIC ONE-WAY DIFFUSION FOR TEXT-VISION-CONDITIONED GENERATION ** \
+[[Github](https://wangruoyu02.github.io/cow.github.io/)]
+[[Paper](https://arxiv.org/pdf/2306.08247)]
 
 ## Diffusion Model Acceleration
 
