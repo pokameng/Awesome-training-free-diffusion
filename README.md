@@ -61,6 +61,10 @@
 [[Github](https://wangruoyu02.github.io/cow.github.io/)]
 [[Paper](https://arxiv.org/pdf/2306.08247)]
 
+**RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models** \
+[[Github](https://github.com/YangLing0818/RealCompo)]
+[[Paper](https://arxiv.org/pdf/2402.12908v1)]
+
 ## Diffusion Model Acceleration
 
 **AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration** \
