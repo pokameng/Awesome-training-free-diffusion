@@ -65,11 +65,27 @@
 [[Github](https://github.com/YangLing0818/RealCompo)]
 [[Paper](https://arxiv.org/pdf/2402.12908v1)]
 
+**Shape-Guided Diffusion with Inside-Outside Attention** \
+[[Github](https://shape-guided-diffusion.github.io/)]
+[[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Park_Shape-Guided_Diffusion_With_Inside-Outside_Attention_WACV_2024_paper.pdf)]
+
+**FreeStyle: Free Lunch for Text-guided Style Transfer using Diffusion Models** \
+[[Github](https://freestylefreelunch.github.io/)]
+[[Paper](https://arxiv.org/pdf/2401.15636v1)]
+
+
 ## Diffusion Model Acceleration
 
 **AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration** \
 [[Github](https://github.com/lilijiangg/AutoDiffusion)]
 [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_AutoDiffusion_Training-Free_Optimization_of_Time_Steps_and_Architectures_for_Automated_ICCV_2023_paper.pdf)]
+
+**SEEDS: Exponential SDE Solvers for Fast High-Quality Sampling from Diffusion Models** \
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/d6f764aae383d9ff28a0f89f71defbd9-Paper-Conference.pdf)]
+
+**DPM-Solver-v3: Improved Diffusion ODE Solver with Empirical Model Statistics** \
+[[Github](https://github.com/thu-ml/DPM-Solver-v3)]
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/ada8de994b46571bdcd7eeff2d3f9cff-Paper-Conference.pdf)]
 
 ## Segmentation
 **FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models** \
