@@ -136,6 +136,14 @@
 [[Github](https://flatten-video-editing.github.io/)]
 [[Paper](https://arxiv.org/pdf/2310.05922)]
 
+**FREENOISE: TUNING-FREE LONGER VIDEO DIFFUSION VIA NOISE RESCHEDULING**
+[[Github](http://haonanqiu.com/projects/FreeNoise.html)]
+[[Paper](https://arxiv.org/pdf/2310.15169)]
+
+**FIFO-Diffusion: Generating Infinite Videos from Text without Training**
+[[Github](https://jjihwan.github.io/projects/FIFO-Diffusion)]
+[[Paper](https://arxiv.org/pdf/2405.11473)]
+
 
 
 
