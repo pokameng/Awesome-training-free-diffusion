@@ -144,6 +144,8 @@
 [[Github](https://jjihwan.github.io/projects/FIFO-Diffusion)]
 [[Paper](https://arxiv.org/pdf/2405.11473)]
 
+**UniCtrl: Improving the Spatiotemporal Consistency of Text-to-Video Diffusion Models via Training-Free Unified Attention Control** \
+[[Paper](https://arxiv.org/pdf/2403.02332)]
 
 
 
