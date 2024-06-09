@@ -73,14 +73,14 @@
 [[Github](https://freestylefreelunch.github.io/)]
 [[Paper](https://arxiv.org/pdf/2401.15636v1)]
 
-**Prompt-Free Diffusion: Taking “Text” out of Text-to-Image Diffusion Models**
+**Prompt-Free Diffusion: Taking “Text” out of Text-to-Image Diffusion Models** \
 [[Github](https://github.com/SHI-Labs/Prompt-Free-Diffusion)]
 [[Paper](https://arxiv.org/pdf/2305.16223)]
 
-**Training-free Diffusion Model Adaptation for Variable-Sized Text-to-Image Synthesis**
+**Training-free Diffusion Model Adaptation for Variable-Sized Text-to-Image Synthesis** \
 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/e0378e0c642b1d292fcb224e8d5a39b3-Paper-Conference.pdf)]
 
-**FreeTuner: Any Subject in Any Style with Training-free Diffusion**
+**FreeTuner: Any Subject in Any Style with Training-free Diffusion** \
 [[Paper](https://arxiv.org/pdf/2405.14201)]
 
 ## Diffusion Model Acceleration
@@ -136,11 +136,11 @@
 [[Github](https://flatten-video-editing.github.io/)]
 [[Paper](https://arxiv.org/pdf/2310.05922)]
 
-**FREENOISE: TUNING-FREE LONGER VIDEO DIFFUSION VIA NOISE RESCHEDULING**
+**FREENOISE: TUNING-FREE LONGER VIDEO DIFFUSION VIA NOISE RESCHEDULING** \
 [[Github](http://haonanqiu.com/projects/FreeNoise.html)]
 [[Paper](https://arxiv.org/pdf/2310.15169)]
 
-**FIFO-Diffusion: Generating Infinite Videos from Text without Training**
+**FIFO-Diffusion: Generating Infinite Videos from Text without Training** \
 [[Github](https://jjihwan.github.io/projects/FIFO-Diffusion)]
 [[Paper](https://arxiv.org/pdf/2405.11473)]
 
